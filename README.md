@@ -1,1 +1,1 @@
-Creat landig page with Html,Css
+Create landing page with Html,Css
